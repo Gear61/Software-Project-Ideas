@@ -1,5 +1,14 @@
 # The Problem
-People keep posting in the wrong channels, because they don't realize other channels besides the default exist.
+The Tech Career Growth community has 6,600+ members as of 11/7/2021, and it's constantly growing. That's a lot of people and a lot of posts; what's important is that a lot of folks haven't used Slack before and aren't aware of how to find channels besides the default ones (finding a channel is not very intuitive in the Slack UI). Because of this, a lot of folks post in the incorrect channels, almost always because they are unaware that a better channel exists. When this happens, I do a hacky post move like so:
+
+1. I share the post into the proper channel. I @mention the poster to let them know I moved it.
+2. I delete the original post.
+3. I invite the poster to the proper channel if necessary, which it often is.
+
+Here's an example of a moved post:
+![Slack moved post example](./media/moved_post.png)
+
+In a nutshell, I want a Slack bot that automatically does these now manual steps. I looked around the Slack apps marketplace and wasn't able to find anything, even paid apps. It's crazy to me that this doesn't exist; we had this at Facebook to move Workplace posts around easily. Given that Slack is enterprise-facing, I can definitely see this starting out as a free app, getting a dedicated userbase, and then being monetized in a freemium way to make a significant amount of $$$.
 
 # MVP Requirements
 - TBD
@@ -12,7 +21,7 @@ This is specifically for Slack, so... yeah.
 # Difficulty
 **Easy**
 
-I'm not sure how easy/possible it is to do a true move, but I can't imagine the "hacky" move being that hard.
+I'm not sure how easy/possible it is to do a true move, but I can't imagine the "hacky" move being that hard. I imagine most folks in the community (myself included) are not familiar with Slack bot development; luckily, Colin Cazabet from within our community is great at this. He built a nice reply bot in the resume channel and wrote an awesome Medium article about it [here](https://medium.com/analytics-vidhya/create-and-distribute-a-slack-bot-with-python-and-aws-in-1-hour-41c4a6c0f99d).
 
 # Possible Extensions
 - Get the move closer to a "true move" if that turns out to be difficult
