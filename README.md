@@ -13,10 +13,15 @@ I deeply believe that all of these ideas meet the following criteria:
 - Can be built in a variety of different ways, all adding different types of value. This means that all of these ideas can be brought to life by 5, 10, or 25 people, all putting their own compelling spin on it
 
 # Ideas
-| Field                            |   Difficulty          |  Best Platform To Build On |
-|----------------------------------|-----------------------|----------------------------|
-| [LinkedIn Reaction Poll Generator](./LinkedIn%20Reaction%20Poll%20Image%20Generator.md)         |  String?        | User's biography |
+| Field                                                                           |   Difficulty          |  Best Platform To Build On |
+|---------------------------------------------------------------------------------|-----------------------|----------------------------|
+| [LinkedIn Reaction Poll Generator](./LinkedIn%20Reaction%20Poll%20Generator.md) |   Medium              |  Web                       |
 
+## Difficulty Meaning
+All difficulties are evaluated from a very junior engineer's perspective. Imagine someone with <1 year of experience and has built "tech-demo" software projects before which worked and taught them the basic components of their stack, but weren't seriously iterated on and didn't get a real amount of users. We are assuming an average of ~10 hours of investment per week. Anyways, here are the 3 ratings:
+- **Easy:** v1 is buildable within 2 weeks
+- **Medium:** v1 buildable within 2-4 weeks
+- **Hard:** v1 buildable within 1 month+
 
 # Building The Idea
 The great thing about these ideas in particular is that you don't need to build them on your own without any support. I have thought about each of these ideas for a long time, so I'm happy to provide tons of feedback to help you on your journey. Anyways, if you're choosing to build one these, I highly recommend doing the following:
