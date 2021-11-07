@@ -11,6 +11,9 @@ I know that this is easily a 10k+ users app, because I built a [very basic versi
   - Open: Restaurant won't close for 1 hour+
 - You can tap a navigate button to immediately start heading to the restaurant
 
+To help you envision the UI, here's the home screen of my Android version:
+![Food Button home Alex Android](./media/fodd_button_home.png)
+
 # Best Platform
 **Mobile, but web is also solid**
 
