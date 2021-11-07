@@ -5,8 +5,9 @@ Reactions increase the reach of a post on LinkedIn similar to what happens on ev
 
 Right now, there's no tool to make the generation of these reaction polls easy. You have to do a bit of image editing yourself, which is cumbersome for many users as they're barely fluent in MS paint like myself. We want to fill in this gap.
 
-# MVP
+# MVP Requirements
 - Show an initially blank image with the 5 LinkedIn reactions. This will be the "canvas" that lets users know what their reaction poll currently looks like.
+- User can type in what question they want to poll to ask. The "canvas" should update in real-time.
 - User can type in the text they want to show up for each of the reactions. The "canvas" should update in real-time.
 - User can click a button and download the filled in template image when they are done.
 
