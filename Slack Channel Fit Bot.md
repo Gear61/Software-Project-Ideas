@@ -40,4 +40,4 @@ There's a decent amount of manual content to work in, and you'll need to learn h
 - Make this customizable so any Slack admin can create whatever quiz they want for their workspace
 - Give the user the ability to remove themselves from a channel they were added to in case the bot got it wrong. I am envisioning a list view of all the channels they got added to with a "Leave" button on the right side
 - Logging and analytics to see how many people used the bot, which channels they're added to, etc
-- Using multiple choice instead of single-choice to reduce question load
+- Have the bot just return a list of all the possible channels if the user types in "all" or something
