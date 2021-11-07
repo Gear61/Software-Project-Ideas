@@ -4,11 +4,19 @@ The absolute best way to learn as a software engineer is to actually build softw
 I created this repo, because product thinking is quite different from technical thinking. This is why most developers struggle to come up with salient product ideas on their own, especially junior developers coming from non-STEM backgrounds. Learning to code is hard enough already, so it is really hard to switch your brain to this more product manager mindset when it's also learning how to build any software in the first place. We have asked many times what people in the Tech Career Growth community, and the #1 response by a wide margin was coming up with a good idea. So here's a bunch of curated, high-quality side project ideas!
 
 I deeply believe that all of these ideas meet the following criteria:
-- Can hit 10k+ users with sufficient investment after 2-3 months
+- Can hit 10k+ users within 2-3 months provided that there's sufficient investment
 - Are buildable by any level of engineer, even the junior engineer who just learned to code over the past 3 months
 - Are at least fairly original and not sufficiently solved (i.e. I did several Google searches and couldn't find something good)
+- Can be built for free or on an extremely low budget (<$10/month)
+- Can be built on the side without taking over your day job
+- Are things I would build myself if I had the free time
+- Can be built in a variety of different ways, all adding different types of value. This means that all of these ideas can be brought to life by 5, 10, or 25 people, all putting their own compelling spin on it
 
 # Ideas
 
 # Building The Idea
+The great thing about these ideas in particular is that you don't need to build them on your own without any support. I have thought about each of these ideas for a long time, so I'm happy to provide tons of feedback to help you on your journey. Anyways, if you're choosing to build one these, I highly recommend doing the following:
 
+1. Check out our YouTube series on how you can build and grow your apps to 500k+ users for free [here](https://www.youtube.com/watch?v=Ciu8zwOr8PU&list=PL7NYbSE8uaBC_YrNV4a67PEu77dCDfNLF).
+2. Sharing your project progress in the #side-projects channel of our Slack community [here](https://join.slack.com/t/techcareergrowth/shared_invite/zt-lt2tbjcn-LOAVIDuGPI~nkuc4woHDLg). Please @mention me and [Rahul Pandey](https://www.linkedin.com/in/rpandey1234/)!
+3. Sharing your progress on your personal LinkedIn! We would love to make side projects more mainstream, and sharing your progress in a public setting is a great way to do that. I personally feel like it would be amazing to see a #100daysofcode challenge but for a side project instead of the usual tutorial and course following I usually see on LinkedIn. Rahul, the [Tech Career Community](https://www.linkedin.com/company/techcareergrowth/), and myself would love to be @mentioned on these posts as well!
