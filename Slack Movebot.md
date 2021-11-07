@@ -11,7 +11,13 @@ Here's an example of a moved post:
 In a nutshell, I want a Slack bot that automatically does these now manual steps. I looked around the Slack apps marketplace and wasn't able to find anything, even paid apps. It's crazy to me that this doesn't exist; we had this at Facebook to move Workplace posts around easily. Given that Slack is enterprise-facing, I can definitely see this starting out as a free app, getting a dedicated userbase, and then being monetized in a freemium way to make a significant amount of $$$.
 
 # MVP Requirements
-- TBD
+- A Workspace Admin/Owner sees a post they want to move to [target_channel]. They reply to the post with @MoveBot #target_channel.
+- The MoveBot moves the post to the target channel, deleting any remnants of the old version of the post in the incorrect channel.
+- The MoveBot lets the poster know that their post has been moved.
+- There are a couple ways to do the move:
+  - [Best] The post is perfectly moved over, with the original post being attached to it and everything. In this case, the MoveBot could reply to the moved post with something like: "@user_name, your post has been moved to a better channel! Thanks for participating in Tech Career Growth community!"
+  - [Okay] The bot duplicates the post and posts it within the other channel. It would prefix the post with the "@user_name, your post has been..." message and then have the original post contents after 2 newlines.
+  - [Worst] Share the message into other channel like what we're doing now. We want to avoid this as the nesting is kind of ugly, and the original user feels sort of disconnected from their own post.
 
 # Best Platform
 **Slack**
@@ -26,4 +32,5 @@ I'm not sure how easy/possible it is to do a true move, but I can't imagine the 
 # Possible Extensions
 - Get the move closer to a "true move" if that turns out to be difficult
 - Automatically add the user to the channel their message has been moved to
+- Make the bot behavior customizable. In particular, the move message can be customizable by the Slack space owner.
 - Some sort of data tracking and analytics presentation, so users of the bot can see what's the most moved to channel and data like that
