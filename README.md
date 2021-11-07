@@ -6,7 +6,7 @@ I created this repo, because product thinking is quite different from technical 
 I deeply believe that all of these ideas meet the following criteria:
 - Can hit 10k+ users within 2-3 months provided that there's sufficient investment
 - Are buildable by any level of engineer, even the junior engineer who just learned to code over the past 3 months
-- Are at least fairly original and not sufficiently solved (i.e. I did several Google searches and couldn't find something good)
+- Are at least fairly original and not sufficiently solved (i.e. I did several Google searches and couldn't find something good). You won't find any "build a music app but better" type ideas here.
 - Can be built for free or on an extremely low budget (<$10/month)
 - Can be built on the side without taking over your day job
 - Are things I would build myself if I had the free time
