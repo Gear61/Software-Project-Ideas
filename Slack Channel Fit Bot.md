@@ -9,10 +9,22 @@ In a nutshell, we want to create a bot where the user takes a quiz and gets auto
 - After answering all the questions, they get automatically added to fitting channels and are told which ones they are. The copy can be something like, "Thanks for telling me about yourself! I have added you to the following channels: #channel1, #channel2, etc."
 
 Questions and channel links:
-- Are you job seeking right now (yes/no)?
+- Are you job seeking right now? (yes/no)
   - Yes: Add them to #interview-prep and #resume-sharing-and-reviews
 - Are you interviewing with Big Tech (yes/no)?
-  - Yes: 
+  - Yes: Add them to #interviewing-facebook, #interviewing-google, #interviewing-microsoft, #interviewing-apple, #interviewing-amazon
+- What is your most recent educational background in tech? (single-choice)
+  - High school: Add to #high-schoolers
+  - University: No-op, we don't have a channel for university students yet. We should probably make one...
+  - Bootcamp: Add to #bootcampers
+- What tech stacks do you work with? (multi-select)
+  - Android: Add to #android
+  - iOS: Add to #ios
+  - Web: Add to #web
+  - Backend: Add to #backend
+  - Flutter: Add to #flutter
+- Do you need help understanding your compensation and maximizing your pay? (yes/no)
+  - Yes: Add to #compensation-discussion
 
 # Best Platform
 **Slack**
