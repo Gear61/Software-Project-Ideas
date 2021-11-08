@@ -21,6 +21,9 @@ I believe that all of these ideas meet the following criteria:
 | [Slack Channel Fit Bot](./Slack%20Channel%20Fit%20Bot.md)                       |   Medium              |  Slack                     |
 | [Food Button](./Food%20Button.md)                                               |   Easy                |  Mobile, Web               |
 | [Simple Location Saver](./Simple%20Location%20Saver.md)                         |   Easy                |  Mobile                    |
+| [COVID-19 Vaccine Conversation Navigator](./Simple%20Location%20Saver.md)       |   Easy                |  Web                       |
+| [COVID-19 Travel Safety Score](./Simple%20Location%20Saver.md)                  |   Easy                |  Web                       |
+
 
 ## Difficulty Meaning
 All difficulties are evaluated from a very junior engineer's perspective. Imagine someone with <1 year of experience and has built "tech-demo" software projects before which worked and taught them the basic components of their stack, but weren't seriously iterated on and didn't get a real amount of users. We are assuming an average of ~10 hours of investment per week. Anyways, here are the 3 ratings:
