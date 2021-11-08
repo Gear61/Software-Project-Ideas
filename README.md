@@ -22,7 +22,7 @@ I believe that all of these ideas meet the following criteria:
 | [Food Button](./Food%20Button.md)                                                            |   Easy                |  Mobile, Web               |
 | [Simple Location Saver](./Simple%20Location%20Saver.md)                                      |   Easy                |  Mobile                    |
 | [COVID-19 Vaccine Conversation Navigator](./COVID-19%20Vaccine%20Conversation%20Navigator.md)|   Easy                |  Web                       |
-| [COVID-19 Travel Safety Score](./COVID-19%20Travel%20Safety%20Score.md)                      |   Easy                |  Web                       |
+| [COVID-19 Travel Safety Score](./COVID-19%20Travel%20Safety%20Score.md)                      |   Medium              |  Web                       |
 
 
 ## Difficulty Meaning
