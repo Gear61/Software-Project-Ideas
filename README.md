@@ -14,15 +14,15 @@ I believe that all of these ideas meet the following criteria:
 - Can be built in a variety of different ways, all adding different types of value. This means that all of these ideas can be brought to life by 5, 10, or 25 people, all putting their own compelling spin on it
 
 # Ideas
-| Project                                                                         |   Difficulty          |  Best Platform To Build On |
-|---------------------------------------------------------------------------------|-----------------------|----------------------------|
-| [LinkedIn Reaction Poll Generator](./LinkedIn%20Reaction%20Poll%20Generator.md) |   Medium              |  Web                       |
-| [Slack MoveBot](./Slack%20MoveBot.md)                                           |   Easy                |  Slack                     |
-| [Slack Channel Fit Bot](./Slack%20Channel%20Fit%20Bot.md)                       |   Medium              |  Slack                     |
-| [Food Button](./Food%20Button.md)                                               |   Easy                |  Mobile, Web               |
-| [Simple Location Saver](./Simple%20Location%20Saver.md)                         |   Easy                |  Mobile                    |
-| [COVID-19 Vaccine Conversation Navigator](./Simple%20Location%20Saver.md)       |   Easy                |  Web                       |
-| [COVID-19 Travel Safety Score](./Simple%20Location%20Saver.md)                  |   Easy                |  Web                       |
+| Project                                                                                      |   Difficulty          |  Best Platform To Build On |
+|----------------------------------------------------------------------------------------------|-----------------------|----------------------------|
+| [LinkedIn Reaction Poll Generator](./LinkedIn%20Reaction%20Poll%20Generator.md)              |   Medium              |  Web                       |
+| [Slack MoveBot](./Slack%20MoveBot.md)                                                        |   Easy                |  Slack                     |
+| [Slack Channel Fit Bot](./Slack%20Channel%20Fit%20Bot.md)                                    |   Medium              |  Slack                     |
+| [Food Button](./Food%20Button.md)                                                            |   Easy                |  Mobile, Web               |
+| [Simple Location Saver](./Simple%20Location%20Saver.md)                                      |   Easy                |  Mobile                    |
+| [COVID-19 Vaccine Conversation Navigator](./COVID-19%20Vaccine%20Conversation%20Navigator.md)|   Easy                |  Web                       |
+| [COVID-19 Travel Safety Score](./Simple%20Location%20Saver.md)                               |   Easy                |  Web                       |
 
 
 ## Difficulty Meaning
