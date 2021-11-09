@@ -7,17 +7,23 @@ I want to build a tool where I can input what I have in-game and get suggested t
 
 # MVP Requirements
 - User can input the characters they have
-- The homepage is a list of suggested teams that are possible for the player and has guides on how to play these teams and why they work
+- The homepage is a list of suggested teams that are possible for the player
+- If the user clicks on a suggested team, it explains how the team works and has guides on how to play it
 
 # Best Platform
 **Web, but mobile isn't too bad**
 
-This is a content display app, so 
+This is a content display app, so the extra space on web is nice. However, Genshin Impact is also playable on mobile and has a large userbase there; this means that a mobile app for this makes sense as well.
 
 # Difficulty
-**Hard**
+**Medium**
 
-I did some research on the APIs, and I actually don't think this is possible out of the box. You will probably have to hack together an API via scraping or ask the companies' support teams for special API access. You also need to juggle various API calls across auth and creating the review.
+There's a lot of manual work here as you need to source the team database and guiding content for each one. The algorithm to match character pool to teams is also interesting. After that, it's a UI/UX problem.
 
 # Possible Extensions
-- Accounts
+- Accounts so people can access the tool anywhere
+- Be able to add character constellations
+- Be able to add what weapons you have
+- Allow users to mark which teams they're using
+- Bookmarking/favoriting
+- Data and analytics to show things like most popular teams
