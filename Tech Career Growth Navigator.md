@@ -1,5 +1,3 @@
-TCG Navigator
-
 # The Problem
 As of 11/8/2021, the Tech Career Growth community has ~9,000 members and Rahul and I have created a ton of resources. In a nutshell, it's hard to keep track of all this. What we'll see happen often is new members will join and then ask questions that are answered by old content we have already made. It's hard to discover the old content, so the new member doesn't know it exists. To make things worse, even Rahul and I don't have links handy for our own old resources.
 
@@ -11,8 +9,38 @@ Right now, this job is being served by this [extremely janky and manual Medium a
 - User can answer a series of questions about where they are with their tech career
 - The app suggests Tech Career Growth resources (i.e. things made by Rahul and Alex) accordingly
 
-Questions:
-- TBD
+Proposed question tree:
+- What do you need help with? (single choice)
+  - Improving my resume
+  - Interviewing
+  - Moving up the career ladder
+  - Productivity
+  - Building projects
+  - General growth and learning
+
+- Improving my resume
+  - Link resume resources
+
+- Interviewing -> What part of the interview are you struggling with?
+  - Data structures and algorithms
+  - Behavioral
+  - System design
+  - Nerves and anxiety
+  - Studying in general
+
+- Moving up the career ladder
+  - Link promotion resources
+
+- Productivity
+  - Link productivity resources
+
+- Building projects
+  - Link side project resources
+
+- General growth and learning
+  - Link non-promo growth resources
+
+For resources, just use the janky Medium article linked above.
 
 # Best Platform
 **Web, but mobile works too**
