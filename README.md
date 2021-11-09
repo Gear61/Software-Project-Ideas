@@ -21,7 +21,7 @@ I believe that all of these ideas meet the following criteria:
 | [Slack Channel Fit Bot](./Slack%20Channel%20Fit%20Bot.md)                                    |   Medium              |  Slack                     |
 | [Food Button](./Food%20Button.md)                                                            |   Easy                |  Mobile, Web               |
 | [Simple Location Saver](./Simple%20Location%20Saver.md)                                      |   Easy                |  Mobile                    |
-| [Aggregate Restaurant Supporter](./Simple%20Location%20Saver.md)                             |   Hard                |  Web, Mobile               |
+| [Aggregate Restaurant Supporter](./Aggregate%20Restaurant%20Supporter.md)                    |   Hard                |  Web, Mobile               |
 | [Secret Hitler WebApp](./Simple%20Location%20Saver.md)                                       |   Hard                |  Web                       |
 | [Genshin Impact Team Builder](./Simple%20Location%20Saver.md)                                |   Easy                |  Web                       |
 | [Interactive Language Learner](./Simple%20Location%20Saver.md)                               |   Hard                |  Mobile, Web               |
