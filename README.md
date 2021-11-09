@@ -25,7 +25,7 @@ I believe that all of these ideas meet the following criteria:
 | [Secret Hitler WebApp](./Secret%20Hitler%20WebApp.md)                                        |   Hard                |  Web                       |
 | [Genshin Impact Team Builder](./Genshin%20Impact%20Team%20Builder.md)                        |   Medium              |  Web, Mobile               |
 | [Interactive Language Learner](./Interactive%20Language%20Learner.md)                        |   Hard                |  Mobile, Web               |
-| [Tech Career Growth Navigator](./Simple%20Location%20Saver.md)                               |   Easy                |  Web, Mobile               |
+| [Tech Career Growth Navigator](./Tech%20Career%20Growth%20Navigator.md)                      |   Easy                |  Web, Mobile               |
 | [COVID-19 Travel Safety Score](./COVID-19%20Travel%20Safety%20Score.md)                      |   Medium              |  Web                       |
 | [COVID-19 Vaccine Conversation Navigator](./COVID-19%20Vaccine%20Conversation%20Navigator.md)|   Easy                |  Web                       |
 
