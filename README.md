@@ -24,9 +24,10 @@ I believe that all of these ideas meet the following criteria:
 | [Aggregate Restaurant Supporter](./Simple%20Location%20Saver.md)                             |   Hard                |  Web, Mobile               |
 | [Secret Hitler WebApp](./Simple%20Location%20Saver.md)                                       |   Hard                |  Web                       |
 | [Genshin Impact Team Builder](./Simple%20Location%20Saver.md)                                |   Easy                |  Web                       |
-| [COVID-19 Vaccine Conversation Navigator](./COVID-19%20Vaccine%20Conversation%20Navigator.md)|   Easy                |  Web                       |
+| [Interactive Language Learner](./Simple%20Location%20Saver.md)                               |   Hard                |  Mobile, Web               |
+| [Tech Career Growth Navigator](./Simple%20Location%20Saver.md)                               |   Easy                |  Web, Mobile               |
 | [COVID-19 Travel Safety Score](./COVID-19%20Travel%20Safety%20Score.md)                      |   Medium              |  Web                       |
-
+| [COVID-19 Vaccine Conversation Navigator](./COVID-19%20Vaccine%20Conversation%20Navigator.md)|   Easy                |  Web                       |
 
 ## Difficulty Meaning
 All difficulties are evaluated from a very junior engineer's perspective. Imagine someone with <1 year of experience and has built "tech-demo" software projects before which worked and taught them the basic components of their stack, but weren't seriously iterated on and didn't get a real amount of users. We are assuming an average of ~10 hours of investment per week. Anyways, here are the 3 ratings:
