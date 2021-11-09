@@ -23,7 +23,7 @@ I believe that all of these ideas meet the following criteria:
 | [Simple Location Saver](./Simple%20Location%20Saver.md)                                      |   Easy                |  Mobile                    |
 | [Aggregate Restaurant Supporter](./Aggregate%20Restaurant%20Supporter.md)                    |   Hard                |  Web, Mobile               |
 | [Secret Hitler WebApp](./Secret%20Hitler%20WebApp.md)                                        |   Hard                |  Web                       |
-| [Genshin Impact Team Builder](./Simple%20Location%20Saver.md)                                |   Medium              |  Web                       |
+| [Genshin Impact Team Builder](./Genshin%20Impact%20Team%20Builder.md)                        |   Medium              |  Web, Mobile               |
 | [Interactive Language Learner](./Simple%20Location%20Saver.md)                               |   Hard                |  Mobile, Web               |
 | [Tech Career Growth Navigator](./Simple%20Location%20Saver.md)                               |   Easy                |  Web, Mobile               |
 | [COVID-19 Travel Safety Score](./COVID-19%20Travel%20Safety%20Score.md)                      |   Medium              |  Web                       |
