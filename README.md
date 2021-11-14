@@ -38,6 +38,8 @@ All difficulties are evaluated from a very junior engineer's perspective. Imagin
 - **Hard:** v1 buildable within 1 month+
 
 # Building The Idea
+First off, if you're feeling overwhelmed and have no idea how to convert these project specs into the big bundle of code necessary to create a full product, I heavily recommend reading my Medium article [here](https://chioualexander.medium.com/how-to-build-any-large-software-project-cf9b28f67ee8?sk=0917e4f1ab146c539030f73479456f24) on how to build any large software project.
+
 The great thing about these ideas in particular is that you don't need to build them on your own without any support. I have thought about each of these ideas for a long time, so I'm happy to provide tons of feedback to help you on your journey. Anyways, if you're choosing to build one these, I highly recommend doing the following:
 
 1. Check out our YouTube series on how you can build and grow your apps to 500k+ users for free [here](https://www.youtube.com/watch?v=Ciu8zwOr8PU&list=PL7NYbSE8uaBC_YrNV4a67PEu77dCDfNLF).
