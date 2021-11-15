@@ -5,8 +5,20 @@ Right now, it is not easy to find low effort recipes; you need to go to a more g
 
 # MVP Requirements
 - Some sort of splash page with the logo, app name, maybe an explanation of the app, and a "Find Me A Recipe!" button
+- When the user clicks the button, make an API call to fetch a random low effort recipe. Show the recipe in a full page detail view once it has been fetched
+- The detail view should contain the following 
+  - A picture of at least the finished dish
+  - The recipe as a series of steps
+  - 1 or more videos (if applicable)
+  - Rating (if applicable)
+- Here's my definition of low effort. Feel free to tweak it, but I don't recommend straying too far.
+  - Uses 5 or less ingredients
+  - Only uses common ingredients like chicken, potatoes, onions, and carrots. We want these recipes to be dishes people can put together with ingredients laying around the kitchen
+  - 1 hour or less of cook time
+  - Can make 3 or more servings
+- A "Show me another recipe!" button on the recipe detail page
 
-To make things simple
+To keep things simple, I chose a single button experience for v1. I considered a feed, but the problem is how would you show a different feed upon each visit?
 
 # Best Platform
 **Mobile, Web**
@@ -23,4 +35,10 @@ I haven't done a ton of research on recipe APIs, but it seems like finding a com
 TBD
 
 # Possible Extensions
-- TBD
+- Opening to some sort of feed or grid upon opening the app to save a click
+- Sharing functionality for recipes
+- Filters (cuisine types, ingredients, etc)
+- Bookmarking/favoriting
+- Accounts (will be necessary if you add features like favoriting)
+- Allow users to rate recipes
+- Personalization of recipe selection, either through basic rules or machine learning
