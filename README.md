@@ -26,8 +26,8 @@ I believe that all of these ideas meet the following criteria:
 | [Genshin Impact Team Builder](./Genshin%20Impact%20Team%20Builder.md)                        |   Medium              |  Web, Mobile               |
 | [Interactive Language Learner](./Interactive%20Language%20Learner.md)                        |   Hard                |  Mobile, Web               |
 | [Tech Career Growth Navigator](./Tech%20Career%20Growth%20Navigator.md)                      |   Easy                |  Web, Mobile               |
-| [Cat Pix](./Cat%20Pix.md)                                                                    |   Medium              |  Mobile, Web               |
-| [Low Effort Recipes Finder](./Low%20Effort%20Recipes%20Finder.md)                            |   Medium              |  Web, Mobile               |
+| [Cat Pix](./Cat%20Pix.md)                                                                    |   Easy                |  Mobile, Web               |
+| [Low Effort Recipes Finder](./Low%20Effort%20Recipes%20Finder.md)                            |   Easy                |  Web, Mobile               |
 | [COVID-19 Travel Safety Score](./COVID-19%20Travel%20Safety%20Score.md)                      |   Medium              |  Web                       |
 | [COVID-19 Vaccine Conversation Navigator](./COVID-19%20Vaccine%20Conversation%20Navigator.md)|   Easy                |  Web                       |
 
