@@ -32,8 +32,6 @@ The v1 of this project is pretty simple as it's effectively a nice UI/UX wrapper
 
 I haven't done a ton of research on recipe APIs, but it seems like finding a completely free one could be tricky. [Here's one](https://developer.edamam.com/edamam-recipe-api) that I found that gives 10,000 free API calls per month on the free tier, which should be enough to support a few thousand users. If you find yourself hitting the limit, congratulations, you have a great problem to have - Too many users!
 
-TBD
-
 # Possible Extensions
 - Opening to some sort of feed or grid upon opening the app to save a click
 - Sharing functionality for recipes
@@ -41,4 +39,5 @@ TBD
 - Bookmarking/favoriting
 - Accounts (will be necessary if you add features like favoriting)
 - Allow users to rate recipes
+- "I made this!" button and counter
 - Personalization of recipe selection, either through basic rules or machine learning
