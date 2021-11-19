@@ -11,6 +11,12 @@ Right now, there's no tool to make the generation of these reaction polls easy. 
 - User can type in the text they want to show up for each of the reactions. The "canvas" should update in real-time.
 - User can click a button and download the filled in template image when they are done.
 
+# Designs
+If you're having trouble envisioning the experience, here are some basic mocks you can work off of.
+
+![Initial](./media/linkedin_reaction_initial.png)
+![With Inputs](./media/linkedin_reaction_ready.png)
+
 # Best Platform
 **Web**
 
