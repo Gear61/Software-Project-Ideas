@@ -32,3 +32,6 @@ I am unsure how the image generation works. You may have to store it on a tempor
 - Different template images with varying backgrounds
 - Text customization (size, font, color)
 - Hosting the user's created images and forming a marketplace out of them!
+
+# Thanks
+The mocks in this spec were provided by the amazing [Luke Hovee](https://www.linkedin.com/in/luke-hovee-2433b7b4/)! He's working on a website that makes it easier for junior developers in particular to pick up and manage projects, which you can find [here](https://www.projects-for-devs.com/#/).
