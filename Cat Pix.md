@@ -9,6 +9,7 @@ I believe that a polished version of this app can get 10,000+ users, because I b
 
 To help with visualization, here are some sample mocks you can work off of:
 ![Web](./media/cat_pix_web.png)
+![Mobile](./media/cat_pix_mobile.png)
 
 # Best Platform
 **Mobile, but web is okay**
