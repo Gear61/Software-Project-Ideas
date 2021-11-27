@@ -7,6 +7,9 @@ I believe that a polished version of this app can get 10,000+ users, because I b
 - User opens the app and it shows an endless feed of cat pictures
 - User doesn't see the same photos compared to previous opens
 
+To help with visualization, here are some sample mocks you can work off of:
+![Web](./media/cat_pix_web.png)
+
 # Best Platform
 **Mobile, but web is okay**
 
