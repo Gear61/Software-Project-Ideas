@@ -33,3 +33,6 @@ Another option is to pull content from the Cat API, filtering for dupes, and put
 - User accounts to save filter settings, do feed personalization, and persist favorites
 - Ability to download images
 - Share button to social media
+
+# Thanks
+The web mock in this spec was provided by the amazing [Luke Hovee](https://www.linkedin.com/in/luke-hovee-2433b7b4/)! He's working on a website that makes it easier for junior developers in particular to pick up and manage projects, which you can find [here](https://www.projects-for-devs.com/#/).
