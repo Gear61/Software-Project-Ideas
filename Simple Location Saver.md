@@ -33,3 +33,6 @@ Getting a base version of this is extremely easy as fetching the user's current 
 - Bookmarking/favoriting
 - Folders to categorize locations
 - Data and analytics so users can see their most visited locations
+
+# Thanks
+The mocks in this spec were provided by the amazing [Luke Hovee](https://www.linkedin.com/in/luke-hovee-2433b7b4/)! He's working on a website that makes it easier for junior developers in particular to pick up and manage projects, which you can find [here](https://www.projects-for-devs.com/#/).
