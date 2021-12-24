@@ -1,0 +1,1135 @@
+[
+  {
+    "name": "Genshin Impact Team Combinations",
+    "teams": [
+      {
+        "teamName": "Yoimiya Melt",
+        "teamRating": "SS",
+        "element": "Pyro",
+        "members": [
+          {
+            "name": "Yoimiya",
+            "teamLeader": true,
+            "position": "Main DPS"
+          },
+          {
+            "name": "Ganyu",
+            "position": "Sub DPS"
+          },
+          {
+            "name": "Venti",
+            "position": "Sub DPS"
+          },
+          {
+            "name": "Bennett",
+            "position": "Support"
+          }
+        ]
+      },
+      {
+        "teamName": "Diluc Vapourize",
+        "teamRating": "SS",
+        "element": "Pyro",
+        "members": [
+          {
+            "name": "Diluc",
+            "teamLeader": true,
+            "position": "Main DPS"
+          },
+          {
+            "name": "Bennett",
+            "position": "Sub DPS"
+          },
+          {
+            "name": "Xingqiu",
+            "position": "Sub DPS"
+          },
+          {
+            "name": "Sucrose",
+            "position": "Support"
+          }
+        ]
+      },
+      {
+        "teamName": "Hu Tao Vapourize",
+        "teamRating": "SS",
+        "element": "Pyro",
+        "members": [
+          {
+            "name": "Hu Tao",
+            "teamLeader": true,
+            "position": "Main DPS"
+          },
+          {
+            "name": "Bennett",
+            "position": "Sub DPS"
+          },
+          {
+            "name": "Xingqiu",
+            "position": "Sub DPS"
+          },
+          {
+            "name": "Sucrose",
+            "position": "Support"
+          }
+        ]
+      },
+      {
+        "teamName": "Bennett Vapourize",
+        "teamRating": "SS",
+        "element": "Pyro",
+        "members": [
+          {
+            "name": "Hu Tao",
+            "position": "Main DPS"
+          },
+          {
+            "name": "Bennett",
+            "teamLeader": true,
+            "position": "Sub DPS"
+          },
+          {
+            "name": "Xingqiu",
+            "position": "Sub DPS"
+          },
+          {
+            "name": "Sucrose",
+            "position": "Support"
+          }
+        ]
+      },
+      {
+        "teamName": "Xiangling Vapourize",
+        "teamRating": "SS",
+        "element": "Pyro",
+        "members": [
+          {
+            "name": "Tartaglia",
+            "position": "Main DPS"
+          },
+          {
+            "name": "Xiangling",
+            "teamLeader": true,
+            "position": "Sub DPS"
+          },
+          {
+            "name": "Kazuha",
+            "position": "Sub DPS"
+          },
+          {
+            "name": "Bennett",
+            "position": "Support"
+          }
+        ]
+      },
+      {
+        "teamName": "Thoma Vapourize Melt",
+        "teamRating": "S",
+        "element": "Pyro",
+        "members": [
+          {
+            "name": "Hu Tao",
+            "position": "Main DPS"
+          },
+          {
+            "name": "Chongyun",
+            "position": "Sub DPS"
+          },
+          {
+            "name": "Xingqiu",
+            "position": "Sub DPS"
+          },
+          {
+            "name": "Thoma",
+            "teamLeader": true,
+            "position": "Support"
+          }
+        ]
+      },
+      {
+        "teamName": "Klee Resonance",
+        "teamRating": "S",
+        "element": "Pyro",
+        "members": [
+          {
+            "name": "Klee",
+            "teamLeader": true,
+            "position": "Main DPS"
+          },
+          {
+            "name": "Xiangling",
+            "position": "Sub DPS"
+          },
+          {
+            "name": "Zhongli",
+            "position": "Sub DPS"
+          },
+          {
+            "name": "Bennett",
+            "position": "Support"
+          }
+        ]
+      },
+      {
+        "teamName": "Yanfei Vaporize",
+        "teamRating": "A",
+        "element": "Pyro",
+        "members": [
+          {
+            "name": "Yanfei",
+            "teamLeader": true,
+            "position": "Main DPS"
+          },
+          {
+            "name": "Xingqiu",
+            "position": "Sub DPS"
+          },
+          {
+            "name": "Zhongli",
+            "position": "Sub DPS"
+          },
+          {
+            "name": "Bennett",
+            "position": "Support"
+          }
+        ]
+      },
+      {
+        "teamName": "Amber Melt",
+        "teamRating": "A",
+        "element": "Pyro",
+        "members": [
+          {
+            "name": "Ayaka",
+            "position": "Main DPS"
+          },
+          {
+            "name": "Amber",
+            "teamLeader": true,
+            "position": "Sub DPS"
+          },
+          {
+            "name": "Zhongli",
+            "position": "Sub DPS"
+          },
+          {
+            "name": "Bennett",
+            "position": "Support"
+          }
+        ]
+      },
+      {
+        "teamName": "Xinyan Physical",
+        "teamRating": "A",
+        "element": "Pyro",
+        "members": [
+          {
+            "name": "Eula",
+            "position": "Main DPS"
+          },
+          {
+            "name": "Xinyan",
+            "teamLeader": true,
+            "position": "Sub DPS"
+          },
+          {
+            "name": "Diona",
+            "position": "Sub DPS"
+          },
+          {
+            "name": "Bennett",
+            "position": "Support"
+          }
+        ]
+      },
+      {
+        "teamName": "Kokomi Vapourize",
+        "teamRating": "SS",
+        "element": "Hydro",
+        "members": [
+          {
+            "name": "Kokomi",
+            "teamLeader": true,
+            "position": "Main DPS"
+          },
+          {
+            "name": "Xiangling",
+            "position": "Sub DPS"
+          },
+          {
+            "name": "Kazuha",
+            "position": "Sub DPS"
+          },
+          {
+            "name": "Bennett",
+            "position": "Support"
+          }
+        ]
+      },
+      {
+        "teamName": "Childe Tartaglia Vapourize",
+        "teamRating": "SS",
+        "element": "Hydro",
+        "members": [
+          {
+            "name": "Tartaglia",
+            "teamLeader": true,
+            "position": "Main DPS"
+          },
+          {
+            "name": "Xiangling",
+            "position": "Sub DPS"
+          },
+          {
+            "name": "Kazuha",
+            "position": "Sub DPS"
+          },
+          {
+            "name": "Bennett",
+            "position": "Support"
+          }
+        ]
+      },
+      {
+        "teamName": "Xingqiu Vapourize",
+        "teamRating": "SS",
+        "element": "Hydro",
+        "members": [
+          {
+            "name": "Hu Tao",
+            "position": "Main DPS"
+          },
+          {
+            "name": "Xingqiu",
+            "teamLeader": true,
+            "position": "Sub DPS"
+          },
+          {
+            "name": "Sucrose",
+            "position": "Support"
+          },
+          {
+            "name": "Bennett",
+            "position": "Support"
+          }
+        ]
+      },
+      {
+        "teamName": "Mona Permafrost",
+        "teamRating": "SS",
+        "element": "Hydro",
+        "members": [
+          {
+            "name": "Ganyu",
+            "position": "Main DPS"
+          },
+          {
+            "name": "Venti",
+            "position": "Sub DPS"
+          },
+          {
+            "name": "Mona",
+            "teamLeader": true,
+            "position": "Support"
+          },
+          {
+            "name": "Diona",
+            "position": "Support"
+          }
+        ]
+      },
+      {
+        "teamName": "Barbara Permafrost",
+        "teamRating": "A",
+        "element": "Hydro",
+        "members": [
+          {
+            "name": "Ganyu",
+            "position": "Main DPS"
+          },
+          {
+            "name": "Venti",
+            "position": "Sub DPS"
+          },
+          {
+            "name": "Barbara",
+            "teamLeader": true,
+            "position": "Support"
+          },
+          {
+            "name": "Diona",
+            "position": "Support"
+          }
+        ]
+      },
+      {
+        "teamName": "Raiden Shogun Overload",
+        "teamRating": "SS",
+        "element": "Electro",
+        "members": [
+          {
+            "name": "Klee",
+            "position": "Main DPS"
+          },
+          {
+            "name": "Raiden Shogun",
+            "teamLeader": true,
+            "position": "Sub DPS"
+          },
+          {
+            "name": "Kazuha",
+            "position": "Sub DPS"
+          },
+          {
+            "name": "Jean",
+            "position": "Support"
+          }
+        ]
+      },
+      {
+        "teamName": "Keqing Overload",
+        "teamRating": "S",
+        "element": "Electro",
+        "members": [
+          {
+            "name": "Keqing",
+            "teamLeader": true,
+            "position": "Main DPS"
+          },
+          {
+            "name": "Fischl",
+            "position": "Sub DPS"
+          },
+          {
+            "name": "Kazuha",
+            "position": "Sub DPS"
+          },
+          {
+            "name": "Bennett",
+            "position": "Support"
+          }
+        ]
+      },
+      {
+        "teamName": "Kujou Sara Overload",
+        "teamRating": "S",
+        "element": "Electro",
+        "members": [
+          {
+            "name": "Beidou",
+            "position": "Main DPS"
+          },
+          {
+            "name": "Kujou",
+            "teamLeader": true,
+            "position": "Sub DPS"
+          },
+          {
+            "name": "Xingqui",
+            "position": "Sub DPS"
+          },
+          {
+            "name": "Jean",
+            "position": "Support"
+          }
+        ]
+      },
+      {
+        "teamName": "Beidou Electro Charge",
+        "teamRating": "S",
+        "element": "Electro",
+        "members": [
+          {
+            "name": "Beidou",
+            "teamLeader": true,
+            "position": "Main DPS"
+          },
+          {
+            "name": "Xingqui",
+            "position": "Sub DPS"
+          },
+          {
+            "name": "Fischl",
+            "position": "Sub DPS"
+          },
+          {
+            "name": "Bennett",
+            "position": "Support"
+          }
+        ]
+      },
+      {
+        "teamName": "Fischl Electro Charge",
+        "teamRating": "S",
+        "element": "Electro",
+        "members": [
+          {
+            "name": "Beidou",
+            "position": "Main DPS"
+          },
+          {
+            "name": "Fischl",
+            "teamLeader": true,
+            "position": "Sub DPS"
+          },
+          {
+            "name": "Xingqui",
+            "position": "Sub DPS"
+          },
+          {
+            "name": "Bennett",
+            "position": "Support"
+          }
+        ]
+      },
+      {
+        "teamName": "Razor Superconduct",
+        "teamRating": "A",
+        "element": "Electro",
+        "members": [
+          {
+            "name": "Razor",
+            "teamLeader": true,
+            "position": "Main DPS"
+          },
+          {
+            "name": "Sucrose",
+            "position": "Sub DPS"
+          },
+          {
+            "name": "Qiqi",
+            "position": "Support"
+          },
+          {
+            "name": "Zhongli",
+            "position": "Support"
+          }
+        ]
+      },
+      {
+        "teamName": "Lisa Superconduct",
+        "teamRating": "A",
+        "element": "Electro",
+        "members": [
+          {
+            "name": "Eula",
+            "position": "Main DPS"
+          },
+          {
+            "name": "Lisa",
+            "teamLeader": true,
+            "position": "Sub DPS"
+          },
+          {
+            "name": "Chongyun",
+            "position": "Sub DPS"
+          },
+          {
+            "name": "Zhongli",
+            "position": "Support"
+          }
+        ]
+      },
+      {
+        "teamName": "Shenhe Permafrost",
+        "teamRating": "SS",
+        "element": "Cryo",
+        "members": [
+          {
+            "name": "Ayaka",
+            "position": "Main DPS"
+          },
+          {
+            "name": "Kokomi",
+            "position": "Healer"
+          },
+          {
+            "name": "Shenhe",
+            "teamLeader": true,
+            "position": "Support"
+          },
+          {
+            "name": "Kazuha",
+            "position": "Support"
+          }
+        ]
+      },
+      {
+        "teamName": "Aloy Permafrost",
+        "teamRating": "SS",
+        "element": "Cryo",
+        "members": [
+          {
+            "name": "Aloy",
+            "teamLeader": true,
+            "position": "Main DPS"
+          },
+          {
+            "name": "Mona",
+            "position": "Sub DPS"
+          },
+          {
+            "name": "Venti",
+            "position": "Sub DPS"
+          },
+          {
+            "name": "Diona",
+            "position": "Support"
+          }
+        ]
+      },
+      {
+        "teamName": "Ayaka Permafrost",
+        "teamRating": "SS",
+        "element": "Cryo",
+        "members": [
+          {
+            "name": "Ayaka",
+            "teamLeader": true,
+            "position": "Main DPS"
+          },
+          {
+            "name": "Mona",
+            "position": "Sub DPS"
+          },
+          {
+            "name": "Venti",
+            "position": "Sub DPS"
+          },
+          {
+            "name": "Diona",
+            "position": "Support"
+          }
+        ]
+      },
+      {
+        "teamName": "Ganyu Permafrost",
+        "teamRating": "SS",
+        "element": "Cryo",
+        "members": [
+          {
+            "name": "Ganyu",
+            "teamLeader": true,
+            "position": "Main DPS"
+          },
+          {
+            "name": "Mona",
+            "position": "Sub DPS"
+          },
+          {
+            "name": "Venti",
+            "position": "Sub DPS"
+          },
+          {
+            "name": "Diona",
+            "position": "Support"
+          }
+        ]
+      },
+      {
+        "teamName": "Diona Permaforst",
+        "teamRating": "SS",
+        "element": "Cryo",
+        "members": [
+          {
+            "name": "Ayaka",
+            "position": "Main DPS"
+          },
+          {
+            "name": "Mona",
+            "position": "Sub DPS"
+          },
+          {
+            "name": "Venti",
+            "position": "Sub DPS"
+          },
+          {
+            "name": "Diona",
+            "teamLeader": true,
+            "position": "Support"
+          }
+        ]
+      },
+      {
+        "teamName": "Eula Superconduct",
+        "teamRating": "S",
+        "element": "Cryo",
+        "members": [
+          {
+            "name": "Eula",
+            "teamLeader": true,
+            "position": "Main DPS"
+          },
+          {
+            "name": "Fischl",
+            "position": "Sub DPS"
+          },
+          {
+            "name": "Chongyun",
+            "position": "Sub DPS"
+          },
+          {
+            "name": "Zhongli",
+            "position": "Support"
+          }
+        ]
+      },
+      {
+        "teamName": "Rosaria Permaforst",
+        "teamRating": "S",
+        "element": "Cryo",
+        "members": [
+          {
+            "name": "Rosaria",
+            "teamLeader": true,
+            "position": "Main DPS"
+          },
+          {
+            "name": "Venti",
+            "position": "Sub DPS"
+          },
+          {
+            "name": "Xingqui",
+            "position": "Sub DPS"
+          },
+          {
+            "name": "Diona",
+            "position": "Support"
+          }
+        ]
+      },
+      {
+        "teamName": "Kaeya Vaporize Melt",
+        "teamRating": "S",
+        "element": "Cryo",
+        "members": [
+          {
+            "name": "Hu Tao",
+            "position": "Main DPS"
+          },
+          {
+            "name": "Kaeya",
+            "teamLeader": true,
+            "position": "Sub DPS"
+          },
+          {
+            "name": "Xingqui",
+            "position": "Sub DPS"
+          },
+          {
+            "name": "Zhongli",
+            "position": "Support"
+          }
+        ]
+      },
+      {
+        "teamName": "Qiqi Permaforst",
+        "teamRating": "S",
+        "element": "Cryo",
+        "members": [
+          {
+            "name": "Xiao",
+            "position": "Main DPS"
+          },
+          {
+            "name": "Xingqui",
+            "position": "Sub DPS"
+          },
+          {
+            "name": "Venti",
+            "position": "Sub DPS"
+          },
+          {
+            "name": "Qiqi",
+            "teamLeader": true,
+            "position": "Support"
+          }
+        ]
+      },
+      {
+        "teamName": "Chongyun Swirl",
+        "teamRating": "S",
+        "element": "Cryo",
+        "members": [
+          {
+            "name": "Xiao",
+            "position": "Main DPS"
+          },
+          {
+            "name": "Chongyun",
+            "teamLeader": true,
+            "position": "Sub DPS"
+          },
+          {
+            "name": "Zhongli",
+            "position": "Support"
+          },
+          {
+            "name": "Jean",
+            "position": "Support"
+          }
+        ]
+      },
+      {
+        "teamName": "Jean Swirl",
+        "teamRating": "SS",
+        "element": "Anemo",
+        "members": [
+          {
+            "name": "Xiao",
+            "position": "Main DPS"
+          },
+          {
+            "name": "Chongyun",
+            "position": "Sub DPS"
+          },
+          {
+            "name": "Jean",
+            "teamLeader": true,
+            "position": "Support"
+          },
+          {
+            "name": "Zhongli",
+            "position": "Support"
+          }
+        ]
+      },
+      {
+        "teamName": "Xiao Swirl",
+        "teamRating": "SS",
+        "element": "Anemo",
+        "members": [
+          {
+            "name": "Xiao",
+            "teamLeader": true,
+            "position": "Main DPS"
+          },
+          {
+            "name": "Chongyun",
+            "position": "Sub DPS"
+          },
+          {
+            "name": "Zhongli",
+            "position": "Support"
+          },
+          {
+            "name": "Jean",
+            "position": "Support"
+          }
+        ]
+      },
+      {
+        "teamName": "Kazuha Vapourize",
+        "teamRating": "SS",
+        "element": "Anemo",
+        "members": [
+          {
+            "name": "Tartaglia",
+            "position": "Main DPS"
+          },
+          {
+            "name": "Kazuha",
+            "teamLeader": true,
+            "position": "Sub DPS"
+          },
+          {
+            "name": "Xiangling",
+            "position": "Sub DPS"
+          },
+          {
+            "name": "Bennett",
+            "position": "Support"
+          }
+        ]
+      },
+      {
+        "teamName": "Venti Permafrost",
+        "teamRating": "SS",
+        "element": "Anemo",
+        "members": [
+          {
+            "name": "Ganyu",
+            "position": "Main DPS"
+          },
+          {
+            "name": "Venti",
+            "teamLeader": true,
+            "position": "Sub DPS"
+          },
+          {
+            "name": "Mona",
+            "position": "Sub DPS"
+          },
+          {
+            "name": "Diona",
+            "position": "Support"
+          }
+        ]
+      },
+      {
+        "teamName": "Sucrose Swirl",
+        "teamRating": "S",
+        "element": "Anemo",
+        "members": [
+          {
+            "name": "Xiao",
+            "position": "Main DPS"
+          },
+          {
+            "name": "Sucrose",
+            "teamLeader": true,
+            "position": "Sub DPS"
+          },
+          {
+            "name": "Xiangling",
+            "position": "Sub DPS"
+          },
+          {
+            "name": "Bennett",
+            "position": "Support"
+          }
+        ]
+      },
+      {
+        "teamName": "Sayu Swirl",
+        "teamRating": "S",
+        "element": "Anemo",
+        "members": [
+          {
+            "name": "Xiao",
+            "position": "Main DPS"
+          },
+          {
+            "name": "Chongyun",
+            "position": "Sub DPS"
+          },
+          {
+            "name": "Sayu",
+            "teamLeader": true,
+            "position": "Support"
+          },
+          {
+            "name": "Bennett",
+            "position": "Support"
+          }
+        ]
+      },
+      {
+        "teamName": "Traveler Swirl",
+        "teamRating": "A",
+        "element": "Anemo",
+        "members": [
+          {
+            "name": "Xiao",
+            "position": "Main DPS"
+          },
+          {
+            "name": "Traveler Anemo",
+            "teamLeader": true,
+            "position": "Sub DPS"
+          },
+          {
+            "name": "Xiangling",
+            "position": "Sub DPS"
+          },
+          {
+            "name": "Bennett",
+            "position": "Support"
+          }
+        ]
+      },
+      {
+        "teamName": "Yun Jin Yoimiya Core",
+        "teamRating": "SS",
+        "element": "Geo",
+        "members": [
+          {
+            "name": "Yoimiya",
+            "position": "Main DPS"
+          },
+          {
+            "name": "Gorou",
+            "position": "Sub DPS"
+          },
+          {
+            "name": "Yun Jin",
+            "teamLeader": true,
+            "position": "Support"
+          },
+          {
+            "name": "Bennett",
+            "position": "Support"
+          }
+        ]
+      },
+      {
+        "teamName": "Itto Pure Geo",
+        "teamRating": "SS",
+        "element": "Geo",
+        "members": [
+          {
+            "name": "Itto",
+            "teamLeader": true,
+            "position": "Main DPS"
+          },
+          {
+            "name": "Albedo",
+            "position": "Sub DPS"
+          },
+          {
+            "name": "Gorou",
+            "position": "Sub DPS"
+          },
+          {
+            "name": "Zhongli",
+            "position": "Support"
+          }
+        ]
+      },
+      {
+        "teamName": "Gorou Pure Geo",
+        "teamRating": "SS",
+        "element": "Geo",
+        "members": [
+          {
+            "name": "Itto",
+            "position": "Main DPS"
+          },
+          {
+            "name": "Albedo",
+            "position": "Sub DPS"
+          },
+          {
+            "name": "Gorou",
+            "teamLeader": true,
+            "position": "Support"
+          },
+          {
+            "name": "Zhongli",
+            "position": "Support"
+          }
+        ]
+      },
+      {
+        "teamName": "Zhongli Vapourize Melt",
+        "teamRating": "SS",
+        "element": "Geo",
+        "members": [
+          {
+            "name": "Hu Tao",
+            "position": "Main DPS"
+          },
+          {
+            "name": "Chongyun",
+            "position": "Sub DPS"
+          },
+          {
+            "name": "Xingqiu",
+            "position": "Sub DPS"
+          },
+          {
+            "name": "Zhongli",
+            "teamLeader": true,
+            "position": "Support"
+          }
+        ]
+      },
+      {
+        "teamName": "Albedo Swirl",
+        "teamRating": "SS",
+        "element": "Geo",
+        "members": [
+          {
+            "name": "Xiao",
+            "position": "Main DPS"
+          },
+          {
+            "name": "Venti",
+            "position": "Sub DPS"
+          },
+          {
+            "name": "Albedo",
+            "teamLeader": true,
+            "position": "Support"
+          },
+          {
+            "name": "Bennett",
+            "position": "Support"
+          }
+        ]
+      },
+      {
+        "teamName": "Ningguang Shield",
+        "teamRating": "A",
+        "element": "Geo",
+        "members": [
+          {
+            "name": "Ningguang",
+            "teamLeader": true,
+            "position": "Main DPS"
+          },
+          {
+            "name": "Xiangling",
+            "position": "Sub DPS"
+          },
+          {
+            "name": "Zhongli",
+            "position": "Support"
+          },
+          {
+            "name": "Bennett",
+            "position": "Support"
+          }
+        ]
+      },
+      {
+        "teamName": "Noelle Shield",
+        "teamRating": "A",
+        "element": "Geo",
+        "members": [
+          {
+            "name": "Noelle",
+            "teamLeader": true,
+            "position": "Main DPS"
+          },
+          {
+            "name": "Xiangling",
+            "position": "Sub DPS"
+          },
+          {
+            "name": "Zhongli",
+            "position": "Support"
+          },
+          {
+            "name": "Bennett",
+            "position": "Support"
+          }
+        ]
+      },
+      {
+        "teamName": "Traveler Vapourize",
+        "teamRating": "A",
+        "element": "Geo",
+        "members": [
+          {
+            "name": "Hu Tao",
+            "position": "Main DPS"
+          },
+          {
+            "name": "Xiangqiu",
+            "position": "Sub DPS"
+          },
+          {
+            "name": "Traveler Geo",
+            "teamLeader": true,
+            "position": "Support"
+          },
+          {
+            "name": "Zhongli",
+            "position": "Support"
+          }
+        ]
+      }
+    ]
+  }
+]
