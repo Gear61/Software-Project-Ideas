@@ -34,3 +34,6 @@ There's a lot of manual work here as you need to source the team database and gu
 - Allow users to mark which teams they're using
 - Bookmarking/favoriting
 - Data and analytics to show things like most popular teams
+
+# Thanks
+The mocks in this spec were provided by the amazing [Luke Hovee](https://www.linkedin.com/in/luke-hovee-2433b7b4/)! He's working on a website that makes it easier for junior developers in particular to pick up and manage projects, which you can find [here](https://www.projects-for-devs.com/#/).
