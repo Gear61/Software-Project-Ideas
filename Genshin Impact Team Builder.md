@@ -10,6 +10,13 @@ I want to build a tool where I can input what I have in-game and get suggested t
 - The homepage is a list of suggested teams that are possible for the player
 - If the user clicks on a suggested team, it explains how the team works and has guides on how to play it
 
+To help with visualization, here are some sample mocks you can work off of:
+
+![Character Selection](./media/genshin_team_1.png)
+![No Possible Team](./media/genshin_team_2.png)
+![Team Suggestions](./media/genshin_team_3.png)
+![Character Selection Part 2](./media/genshin_team_4.png)
+
 # Best Platform
 **Web, but mobile isn't too bad**
 
