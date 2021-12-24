@@ -7,7 +7,7 @@ Right now, there is no low-effort tool to help you do this. The process is curre
 
 # MVP Requirements
 - User can input the characters they have
-- The homepage is a list of suggested teams that are possible for the player
+- The homepage is a list of suggested teams that are possible for the player. To make things easier, [here](https://raw.githubusercontent.com/Gear61/Software-Project-Ideas/main/media/genshin_impact_teams.json) is a JSON of Genshin Teams that you can use as your data source.
 - If the user clicks on a suggested team, it explains how the team works and has guides on how to play it
 
 To help with visualization, here are some sample mocks you can work off of:
