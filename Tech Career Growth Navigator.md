@@ -42,6 +42,13 @@ Proposed question tree:
 
 For resources, just use the janky Medium article linked above.
 
+To help with visualization, here are some sample mocks you can work off of:
+
+![About](./media/tech_career_growth_navigator_about.png)
+![Prompt](./media/tech_career_growth_navigator.png)
+![Selected](./media/tech_career_growth_navigator_selection.png)
+![Mobile](./media/tech_career_growth_navigator_mobile.png)
+
 # Best Platform
 **Web, but mobile works too**
 
@@ -56,3 +63,7 @@ Getting a base version of this is extremely easy as fetching the user's current 
 - "Outside" flows, i.e. having options like "My need isn't covered" or something
 - Ability to submit a request for a resource. It can go to an email in v1. Ideally, it integrates with some Slack bot
 - Some sort of admin panel so Rahul and I can add resources to the site map
+
+# Thanks
+The mocks in this spec were provided by the amazing [Luke Hovee](https://www.linkedin.com/in/luke-hovee-2433b7b4/)! He's working on a website that makes it easier for junior developers in particular to pick up and manage projects, which you can find [here](https://www.projects-for-devs.com/#/).
+
