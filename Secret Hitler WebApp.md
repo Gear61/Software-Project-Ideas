@@ -21,7 +21,7 @@ This is a pretty complex app to build even though it's really a fancy utility ap
 
 # Possible Extensions
 - User accounts
-- Track statistic
+- Track statistics (win/loss ratio per player, win streaks, game length, etc)
 - In-game chat
 - The ability to start a new game automatically
 - Animations as game state changes
