@@ -10,7 +10,6 @@ I'm fairly confident that this is 10k+ users app, because I built a [very basic 
 
 To help with visualization, here are some sample mocks you can work off of:
 
-
 ![Homepage](./media/location_manager_saved_locations.png)
 ![Name Location](./media/location_manager_save_current_location.png)
 ![Navigation](./media/location_manager_travel_to.png)
