@@ -57,7 +57,7 @@ I just really like web for content displays, so I prefer that. Anyways, all surf
 # Difficulty
 **Easy**
 
-Getting a base version of this is extremely easy as fetching the user's current location should have a million tutorials across iOS and Android. I have a bullet-proof location fetching flow that is built from scratch and doesn't use 3rd party libraries, which you can find [here](https://github.com/Gear61/Instafood).
+There's really no complex patterns here; this product is just a UI app. Most of the work will be manually setting up the resource tree.
 
 # Possible Extensions
 - "Outside" flows, i.e. having options like "My need isn't covered" or something
