@@ -1,3 +1,5 @@
+UPDATE: We now have an official version of this built at [techcareergrowth.co](https://www.techcareergrowth.co/)! If you want to build your own spin on this, you should definitely go ahead and do so (and we'll try to leave feedback), but I just wanted to let you know as we obviously can't really officially plug multiple versions of this on behalf of Tech Career Growth community.
+
 # The Problem
 As of 11/8/2021, the Tech Career Growth community has ~9,000 members and Rahul and I have created a ton of resources. In a nutshell, it's hard to keep track of all this. What we'll see happen often is new members will join and then ask questions that are answered by old content we have already made. It's hard to discover the old content, so the new member doesn't know it exists. To make things worse, even Rahul and I don't have links handy for our own old resources.
 
