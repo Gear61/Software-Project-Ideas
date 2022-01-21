@@ -29,7 +29,7 @@ I believe that all of these ideas meet the following criteria:
 | [Cat Pix](./Cat%20Pix.md)                                                                    |   Easy                |  Mobile, Web               |
 | [Low Effort Recipes Finder](./Low%20Effort%20Recipes%20Finder.md)                            |   Easy                |  Web, Mobile               |
 | [QR Code Scanner](./QR%20Code%20Scanner.md)                                                  |   Medium              |  Mobile                    |
-| [WhatsApp Sticker Adder (WIP)](./Low%20Effort%20Recipes%20Finder.md)                         |   Medium              |  Mobile                    |
+| [WhatsApp Sticker Adder](./WhatsApp%20Sticker%20Adder.md)                                    |   Medium              |  Mobile                    |
 | [COVID-19 Travel Safety Score](./COVID-19%20Travel%20Safety%20Score.md)                      |   Medium              |  Web                       |
 | [COVID-19 Vaccine Conversation Navigator](./COVID-19%20Vaccine%20Conversation%20Navigator.md)|   Easy                |  Web                       |
 
