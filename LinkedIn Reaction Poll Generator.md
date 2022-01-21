@@ -1,3 +1,5 @@
+UPDATE: There's now a very good version of this build at https://reactionpoll.com/. If you want to build your own spin on this, you should definitely go ahead and do so (and we'll try to leave feedback), but I just wanted to let you know as some folks prefer to solve a problem that isn't already very well solved.
+
 # The Problem
 Reactions increase the reach of a post on LinkedIn similar to what happens on every other social media platform. Because of this, something I call "reaction polls" have become really popular as a growth hack. Instead of running a regular LinkedIn poll, which is frankly pretty jank and constrained to 4 options, you can have users react to your post to vote on the option they want, creating a much richer experience that also nets you the poster a bunch of free engagement. If you don't know what I'm talking about, here's an example of one of these reaction polls:
 
