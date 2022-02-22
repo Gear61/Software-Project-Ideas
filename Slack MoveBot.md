@@ -15,8 +15,8 @@ In a nutshell, I want a Slack bot that automatically does these now manual steps
 - The MoveBot moves the post to the target channel, deleting any remnants of the old version of the post in the incorrect channel.
 - The MoveBot lets the poster know that their post has been moved.
 - There are a couple ways to do the move:
-  - [Best] The post is perfectly moved over, with the original post being attached to it and everything. In this case, the MoveBot could reply to the moved post with something like: "@user_name, your post has been moved to a better channel! Thanks for participating in Tech Career Growth community!"
-  - [Okay] The bot duplicates the post and posts it within the other channel. It would prefix the post with the "@user_name, your post has been..." message and then have the original post contents after 2 newlines.
+  - [Best] The post is perfectly moved over, with the original poster's name and profile picture being attached to it and everything. It is indistinguishable from the original post. In this case, the MoveBot could reply to the moved post with something like: "@user_name, your post has been moved to a better channel! Thanks for participating in Tech Career Growth community!"
+  - [Okay] The bot duplicates the post and posts it within the other channel under its user handle, making the post belong to MoveBot. It would prefix the post with the "@user_name, your post has been..." message and then have the original post contents after 2 newlines.
   - [Worst] Share the message into other channel like what we're doing now. We want to avoid this as the nesting is kind of ugly, and the original user feels sort of disconnected from their own post.
 
 # Best Platform
