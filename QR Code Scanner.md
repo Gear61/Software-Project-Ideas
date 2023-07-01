@@ -10,16 +10,16 @@ The problem is that people are capitalizing on this pertinent space by making QR
 QR code scanning is a very utility-style type of value, so we can keep it extremely simple for v1, making a lot of user assumptions to follow least clicks design.
 
 # Best Platform
-**Mobile**
+**Android**
 
 QR codes are very much an "on the go" type thing, especially as it effectively needs camera. It makes very little sense to build this on web.
 
-This is mainly inspired by Android, which doesn't seem to scan QR codes automatically from the native camera app and all the top app choices are riddled with ads and/or clunky. I heard that iOS has some native QR code integrations, so it may not be worth as much pursuing as much on iOS, but I'm sure there's still opportunity there.
+This is mainly relevant on Android, because it doesn't seem to scan QR codes automatically from the native camera app (at least on my Google Pixel) and all the top app choices are riddled with ads and/or clunky. I know that iPhone has some native QR code integrations, so it's not worth as much to pursue on iOS, but I'm sure there's still some opportunity there.
 
 # Difficulty
 **Medium**
 
-So there's a lot going on like the camera feed and QR code scanning of course, but I assume there's a lot of tutorials and libraries out there, which is why I'm having this at just a Medium. With just a bit of Google, I was able to find a good tutorial for Android [here](https://learntodroid.com/how-to-create-a-qr-code-scanner-app-in-android/).
+So there's a lot going on like the camera feed and QR code scanning of course, but I assume there's a lot of tutorials and libraries out there, which is why I'm having this at just a Medium. With just a bit of Googling, I was able to find a good tutorial for Android [here](https://learntodroid.com/how-to-create-a-qr-code-scanner-app-in-android/).
 
 # Possible Extensions
 - Ability to pick up QR codes from images
